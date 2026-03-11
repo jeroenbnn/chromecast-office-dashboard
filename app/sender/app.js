@@ -1,5 +1,5 @@
 const APPLICATION_ID = "A25F6603";
-const NAMESPACE_URN = "urn:x-cast:chromecast-office-dashboard.firebaseapp.com";
+const NAMESPACE_URN = "urn:x-cast:https://cast-cyan.vercel.app/";
 
 window['__onGCastApiAvailable'] = function(loaded, errorInfo) {
   if (!loaded) {
