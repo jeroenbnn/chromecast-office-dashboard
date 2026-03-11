@@ -1,4 +1,4 @@
-const NAMESPACE_URN = "urn:x-cast:chromecast-office-dashboard.firebaseapp.com";
+const NAMESPACE_URN = "urn:x-cast:cast-cyan.vercel.app";
 
 var castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
 
